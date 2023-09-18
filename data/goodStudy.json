@@ -1,0 +1,37 @@
+{
+    "ListOfCafe": [
+        {
+            "address": "cafeforstudy",
+            "isGoodFood": false,
+            "isGoodCoffee": false,
+            "name": "cafeforstudy",
+            "rating": 4,
+            "isGoodStudySpot": true
+        },
+        {
+            "address": "123",
+            "isGoodFood": true,
+            "isGoodCoffee": true,
+            "name": "cafe",
+            "rating": 2,
+            "isGoodStudySpot": true
+        },
+        {
+            "address": "1",
+            "isGoodFood": true,
+            "isGoodCoffee": true,
+            "name": "caasdf",
+            "rating": 1,
+            "isGoodStudySpot": true
+        },
+        {
+            "address": "3905 W Broadway",
+            "isGoodFood": false,
+            "isGoodCoffee": true,
+            "name": "Starbucks",
+            "rating": 8,
+            "isGoodStudySpot": true
+        }
+    ],
+    "name": "Cafe List"
+}

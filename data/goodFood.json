@@ -1,0 +1,29 @@
+{
+    "ListOfCafe": [
+        {
+            "address": "cafeforfood",
+            "isGoodFood": true,
+            "isGoodCoffee": false,
+            "name": "cafeforfood",
+            "rating": 1,
+            "isGoodStudySpot": false
+        },
+        {
+            "address": "123",
+            "isGoodFood": true,
+            "isGoodCoffee": true,
+            "name": "cafe",
+            "rating": 2,
+            "isGoodStudySpot": true
+        },
+        {
+            "address": "1",
+            "isGoodFood": true,
+            "isGoodCoffee": true,
+            "name": "caasdf",
+            "rating": 1,
+            "isGoodStudySpot": true
+        }
+    ],
+    "name": "Cafe List"
+}

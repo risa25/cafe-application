@@ -1,0 +1,21 @@
+{
+    "ListOfCafe": [
+        {
+            "address": "cafe",
+            "isGoodFood": false,
+            "isGoodCoffee": true,
+            "name": "cafe",
+            "rating": 10,
+            "isGoodStudySpot": true
+        },
+        {
+            "address": "cafe",
+            "isGoodFood": true,
+            "isGoodCoffee": false,
+            "name": "cafe2",
+            "rating": 10,
+            "isGoodStudySpot": false
+        }
+    ],
+    "name": "Cafe List"
+}
